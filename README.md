@@ -12,3 +12,6 @@ Deploys a simple example.
 
 ## How to contribute?
 Not determined yet
+
+### Copyright
+2021 git.training
