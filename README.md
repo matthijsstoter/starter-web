@@ -11,7 +11,7 @@ The purpose can be found above
 Deploys a simple example.
 
 ## How to contribute?
-Not determined yet
+Please fork this repo and issue pull request for review
 
 ### Copyright
 2021 git.training
