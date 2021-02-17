@@ -14,4 +14,4 @@ Deploys a simple example.
 Please fork this repo and issue pull request for review
 
 ### Copyright
-2021 git.training
+2021 git.training. All rights reserved
